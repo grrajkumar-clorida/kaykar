@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"> 
+<url>
+  <loc>http://kaykar.com/index.php</loc>
+  <priority>0.6</priority>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://kaykar.com/about.php</loc>
+  <priority>0.6</priority>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://kaykar.com/service.php</loc>
+  <priority>0.6</priority>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://kaykar.com/project.php</loc>
+  <priority>0.6</priority>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://kaykar.com/feature.php</loc>
+  <priority>0.6</priority>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://kaykar.com/quote.php</loc>
+  <priority>0.6</priority>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://kaykar.com/team.php</loc>
+  <priority>0.6</priority>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://kaykar.com/testimonial.php</loc>
+  <priority>0.6</priority>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://kaykar.com/contact.php</loc>
+  <priority>0.6</priority>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://kaykar.com/img/portfolio-1.jpg</loc>
+  <priority>0.6</priority>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://kaykar.com/img/portfolio-2.jpg</loc>
+  <priority>0.6</priority>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://kaykar.com/img/portfolio-3.jpg</loc>
+  <priority>0.6</priority>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://kaykar.com/img/portfolio-4.jpg</loc>
+  <priority>0.6</priority>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://kaykar.com/img/portfolio-5.jpg</loc>
+  <priority>0.6</priority>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://kaykar.com/img/portfolio-6.jpg</loc>
+  <priority>0.6</priority>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://kaykar.com/kaykar.com</loc>
+  <priority>0.6</priority>
+  <changefreq>monthly</changefreq>
+</url>
+</urlset>
